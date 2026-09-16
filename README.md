@@ -154,4 +154,4 @@ npm test
 
 - Демо: https://coperto-test-task-frontend.vercel.app/
 - Backend: https://github.com/amart302/coperto-test-task-backend
-- API: https://coperto-test-task-backend.onrender.com/
+- API: https://coperto-test-task-backend.onrender.com/api/health
