@@ -150,10 +150,8 @@ src/
 npm test
 ```
 
-## Что можно улучшить
+## Ссылки
 
-- добавить экран истории завершённых стоп-записей;
-- добавить optimistic update с откатом при ошибке;
-- локализовать серверные сообщения об ошибках по их `code`;
-- добавить end-to-end тесты полного пользовательского сценария;
-- настроить CI и автоматический деплой превью.
+- Демо: https://coperto-test-task-frontend.vercel.app/
+- Backend: https://github.com/amart302/coperto-test-task-backend
+- API: https://coperto-test-task-backend.onrender.com/
